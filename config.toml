@@ -1,4 +1,4 @@
-baseurl                  = "/"           # Your domain name
+baseurl                  = "https://sihui.is/"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false

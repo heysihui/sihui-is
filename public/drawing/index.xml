@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illustration on Si Hui</title>
+    <link>heysihui.github.io/drawing/</link>
+    <description>Recent content in Illustration on Si Hui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="heysihui.github.io/drawing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

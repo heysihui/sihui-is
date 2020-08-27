@@ -1,0 +1,42 @@
+baseurl                  = "heysihui.github.io"           # Your domain name
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Si Hui"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Jan 02, 2006"
+    dateformfull         = "Jan 2 2006 15:04:05 EST"
+    favicon              = "milkyway.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Lim Si Hui © 2020"
+
+# Metadata for Open Graph and Twitter
+    description          = "Writer, researcher, designer."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Si Hui"
+    # rss                = ""
+
+[[params.mainMenu]]
+    link = "human"
+    text = "si hui is"
+
+[[params.mainMenu]]
+    link = "writing"
+    text = "writing"
+
+[[params.mainMenu]]
+    link = "making"
+    text = "making"
+
+[[params.mainMenu]]
+    link = "looking"
+    text = "looking"
+
+
+[imaging]
+    quality = 75

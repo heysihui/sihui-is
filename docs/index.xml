@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Si Hui</title>
-    <link>https://sihui.is/</link>
+    <link>https://heysihui.github.io/sihui-is/</link>
     <description>Recent content on Si Hui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://sihui.is/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://heysihui.github.io/sihui-is/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Writing ✍︎</title>
-      <link>https://sihui.is/writing/</link>
+      <link>https://heysihui.github.io/sihui-is/writing/</link>
       <pubDate>Tue, 13 Feb 2018 12:21:57 -0500</pubDate>
       
-      <guid>https://sihui.is/writing/</guid>
+      <guid>https://heysihui.github.io/sihui-is/writing/</guid>
       <description>Under construction. Flashes in time.
 Some poetry, for now:
 ✨
@@ -37,20 +37,20 @@ Time doesn’t stop the way we planned.</description>
     
     <item>
       <title>Changelog</title>
-      <link>https://sihui.is/making/thissite/</link>
+      <link>https://heysihui.github.io/sihui-is/making/thissite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sihui.is/making/thissite/</guid>
+      <guid>https://heysihui.github.io/sihui-is/making/thissite/</guid>
       <description>v1.0 | Aug 2020 Running this site off Hugo on the Call me Sam theme and trying my darndest best to learn How To Do Front End. Have come a long way from coding blogskins in my preteen years and I am so much more easily confused by the file structures these days, despite the relative ease of Markdown and Hugo.
 I&amp;rsquo;ve taken about a month of on-and-off tinkering to put this together.</description>
     </item>
     
     <item>
       <title>Look At Your Fish 🐡</title>
-      <link>https://sihui.is/looking/</link>
+      <link>https://heysihui.github.io/sihui-is/looking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sihui.is/looking/</guid>
+      <guid>https://heysihui.github.io/sihui-is/looking/</guid>
       <description>In 2012, Robin Sloan published a tap essay-app called Fish. It extolled the value of, in the age of a fast-moving internet, returning to the things you love over and over again. Looking at your fish.
 In its spirit, here are the fish in my genealogy of influence:
 🚀
@@ -59,10 +59,10 @@ Designers, researchers, Tech-Adjacent Folks who led me to my career and life: Cr
     
     <item>
       <title>Projects</title>
-      <link>https://sihui.is/making/</link>
+      <link>https://heysihui.github.io/sihui-is/making/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sihui.is/making/</guid>
+      <guid>https://heysihui.github.io/sihui-is/making/</guid>
       <description>Life experiments, mixed media, digital thingums, etc.
 Learning to show my work!
 —
@@ -73,10 +73,10 @@ Illustrations [Ongoing]
     
     <item>
       <title>Si Hui </title>
-      <link>https://sihui.is/human/</link>
+      <link>https://heysihui.github.io/sihui-is/human/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sihui.is/human/</guid>
+      <guid>https://heysihui.github.io/sihui-is/human/</guid>
       <description>[My given name. Yes, both words.]
 Writer, designer, homesick for the sublime.
 In the matter of living, I am concerned with the widening of the human heart.

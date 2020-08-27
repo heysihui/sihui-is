@@ -1,4 +1,4 @@
-baseurl                  = "heysihui.github.io"           # Your domain name
+baseurl                  = "heysihui.github.io/sihui-is/"           # Your domain name
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
 isMultilingual           = false
@@ -6,6 +6,7 @@ title                    = "Si Hui"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
+publishDir               = "docs"
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]

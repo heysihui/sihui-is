@@ -8,8 +8,6 @@ date: 2018-02-13T12:21:57-05:00
 Under construction. Flashes in time.\
 A little poem, for now:
 
-✨
-
 # Dusk
 
 You ask me\

@@ -9,9 +9,11 @@ In its spirit, here are the fish in my genealogy of influence:
 
 🚀
 
-Designers, researchers, Tech-Adjacent Folks who led me to my career and life: [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/). If you take craft far enough it can seem like magic: The work of [Automato](http://automato.farm). [Kelli Anderson](https://vimeo.com/332596348)'s motion and paper craft. [Nicole He](http://nicole.pizza/)'s weird stuff. [Molleindustria](https://www.molleindustria.org/)'s work, especially this 8-bit museum [LikeLike](https://likelike.glitch.me/?room=likelikeOutside). The smoothest responsive interactive site [Nurture](https://nurtu.re).
+Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career and life: [Adrianna Tan](https://popagandhi.com/), [Winnie Lim](https://winnielim.org/), [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/). If you take craft far enough it can seem like magic: The work of [Automato](http://automato.farm). [Kelli Anderson](https://vimeo.com/332596348)'s motion and paper craft. [Nicole He](http://nicole.pizza/)'s weird stuff. [Molleindustria](https://www.molleindustria.org/)'s work, especially this 8-bit museum [LikeLike](https://likelike.glitch.me/?room=likelikeOutside). The smoothest responsive interactive site [Nurture](https://nurtu.re).
 
 Narratives and storytellers: This [website](https://mkorostoff.github.io/1-pixel-wealth/) showing exactly how wealthy Jeff Bezos is, pixel by pixel. Jon Bois's [Future of Football](https://www.sbnation.com/a/17776-football/homer-nebraska) is a real kicker of a narrative. [Nicky Case](https://ncase.me/)'s  well-researched, mind-changing games.
+
+[Sady Doyle on class](http://tigerbeatdown.com/2011/10/08/the-percentages-a-biography-of-class/), [Calvin Trillin on his beloved Alice](https://www.newyorker.com/magazine/2006/03/27/alice-off-the-page).
 
 [Kickscondor](https://www.kickscondor.com/): Used to be a charming retro style link blog, is now running some meta-narrative rabbithole. I don't understand it in the least but it's fascinating.
 
@@ -29,7 +31,7 @@ The poetry of Mary Oliver, Ada Limon, Linda Pastan, Heather Christle, Mary Ruefl
 
 ✏️
 
-My favourite illustrators in the world: [Eleanor Davis](http://doing-fine.com/) — anything and everything, but especially You & a Bike & a Road, and [her work for The Bronx Freedom Fund](http://doing-fine.com/?p=1727#more-1727); [Sara Hagale](http://instagram.com/shagey_), whose work with a pencil is sublime.
+My favourite illustrators in the world: [Eleanor Davis](http://doing-fine.com/) — anything and everything, but especially You & a Bike & a Road, and [her work for The Bronx Freedom Fund](http://doing-fine.com/?p=1727#more-1727); [Sara Hagale](http://instagram.com/shagey_), whose work with a pencil is sublime. [Kate Beaton's hilarious, poignant comics](http://www.harkavagrant.com/). [How to Draw a Horse](https://www.newyorker.com/humor/daily-shouts/how-to-draw-a-horse).
 
 🎭
 

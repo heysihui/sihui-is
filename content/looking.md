@@ -57,3 +57,4 @@ The words of the marvellous [Adrienne Rich](https://lithub.com/life-advice-from-
 >
 > It is important to do this because we can count on so few people to go that hard way with us."
 >
+[The willingness to, against all odds, try.](https://mylordshesacactus.tumblr.com/post/170401018158/please-make-a-post-about-the-story-of-the-rms).

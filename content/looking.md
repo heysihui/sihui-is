@@ -3,7 +3,7 @@ title: "Look At Your Fish 🐡"
 date: 2020-22-07T18:42:49-05:00
 ---
 
-In 2012, [Robin Sloan](https://robinsloan.com) published a tap essay-app called [Fish](https://www.robinsloan.com/fish/). It extolled the value of, in the age of a fast-moving internet, returning to the things you love over and over again. Looking at your fish.
+In 2012, [Robin Sloan](https://robinsloan.com) published a tap essay-app called [Fish](https://www.robinsloan.com/fish/). It extolled the value of, in the age of a fast-moving internet, returning to the things you love over and over again. [Looking at your fish](https://rumaanalam.com/Current-Enthusiasms).
 
 In its spirit, here are the fish in my genealogy of influence:
 
@@ -57,4 +57,5 @@ The words of the marvellous [Adrienne Rich](https://lithub.com/life-advice-from-
 >
 > It is important to do this because we can count on so few people to go that hard way with us."
 >
-[The willingness to, against all odds, try.](https://mylordshesacactus.tumblr.com/post/170401018158/please-make-a-post-about-the-story-of-the-rms).
+
+The willingness to, against all odds, [try](https://mylordshesacactus.tumblr.com/post/170401018158/please-make-a-post-about-the-story-of-the-rms).

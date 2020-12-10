@@ -3,7 +3,7 @@ title: "Projects"
 date: 2020-22-07T18:42:49-05:00
 ---
 
-Life experiments, digital expeditions, real world bold strokes. Part of an attempt to *show my work*.
+Side projects, life experiments, digital expeditions, real world bold strokes. Part of an attempt to *show my work*; portfolio of paid work available upon request. 
 
 —
 
@@ -11,10 +11,6 @@ Life experiments, digital expeditions, real world bold strokes. Part of an attem
 
 [Illustrations]({{< ref "/drawing/" >}}) [Ongoing]
 
-[Kimzua.online](https://www.figma.com/proto/kFGgLXyzCjBoZbU3OkJgxj/Kimzua-Online-(Desktop)?node-id=1%3A2&scaling=scale-down-width&hide-ui=1) [Aug 2020–]
-
-Get Help [Sep 2020–]
-
-A Quantum Exploration [Jun 2020–]
+[Kimzua.online](https://www.figma.com/proto/kFGgLXyzCjBoZbU3OkJgxj/Kimzua-Online-(Desktop)?node-id=1%3A2&scaling=scale-down-width&hide-ui=1) [Early draft]
 
 […this site!](thissite) [Ongoing]

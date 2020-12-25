@@ -2,12 +2,11 @@
 title: "Si Hui "
 date: 2020-22-07T18:42:49-05:00
 ---
-*^ My given name. Yes, both words! Ain't the world interesting.*
+*^ My given name. Yes, both words! Ain't the world grand.*
 
-I am a writer, artist, and researcher. My practice focuses on tangible lived experience as a conduit for truth, looking in particular to documentation
-and reflection as tools of discovery.
+Writer, artist, and researcher. My practice focuses on the documentation of and reflection on tangible lived experience.
 
 In the matter of living, I am concerned with the widening of the human heart.
 
-hey si hui [at] gmail [dot] com /  [Twitter](http://twitter.com/heysihui) /
+Gmail: heysihui /  [Twitter](http://twitter.com/heysihui) /
 [Instagram](http://instagram.com/sihui)

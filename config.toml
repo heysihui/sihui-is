@@ -17,7 +17,7 @@ publishDir               = "docs"
     footerText           = "Lim Si Hui © 2020"
 
 # Metadata for Open Graph and Twitter
-    description          = "Writer, researcher, designer, curious human being"               # Max 160 characters show in search results
+    description          = "Writer, artist, researcher"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Si Hui"
     # rss                = ""

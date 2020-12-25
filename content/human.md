@@ -2,9 +2,10 @@
 title: "Si Hui "
 date: 2020-22-07T18:42:49-05:00
 ---
-*[My given name. Yes, both words.]*
+*^ My given name. Yes, both words! Ain't the world interesting.*
 
-Writer, designer, homesick for the sublime.
+I am a writer, artist, and researcher. My practice focuses on tangible lived experience as a conduit for truth, looking in particular to documentation
+and reflection as tools of discovery.
 
 In the matter of living, I am concerned with the widening of the human heart.
 

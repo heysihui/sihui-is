@@ -1,6 +1,7 @@
 ---
 title: "Look At Your Fish 🐡"
 date: 2020-22-07T18:42:49-05:00
+url: "/looking"
 ---
 
 In 2012, [Robin Sloan](https://robinsloan.com) published a tap essay-app called [Fish](https://www.robinsloan.com/fish/). It extolled the value of, in the age of a fast-moving internet, returning to the things you love over and over again. [Looking at your fish](https://rumaanalam.com/Current-Enthusiasms).
@@ -23,9 +24,9 @@ In London, Punchdrunk's [The Drowned Man](http://www.punchdrunk.org.uk/project/t
 
 📚
 
-Deborah Levy's Things I Know Nothing About, Rebecca Solnit's How to Do Nothing, Maggie Nelson's Bluets.
+Deborah Levy's Things I Don't Want to Know, Jenny Odell's How to Do Nothing, Maggie Nelson's Bluets, Maria Turmakin's Axiomatic.
 
-Fiction by Alice Munro, George Saunders, Aimee Bender, Carmen Maria Machado, Alice Sola Kim, Min Jin Lee, Elena Ferrante, Colette, Sally Rooney, Gogol, Nabokov. This [very short story](http://wigleaf.com/201704minuet.htm) by Rumaam Alam.
+Fiction by Alice Munro, George Saunders, [Aimee](https://womenandmodernlove.wordpress.com/2015/06/29/on-a-saturday-afternoon-a-story-by-aimee-bender/) [Bender](https://electricliterature.com/the-doctor-and-the-rabbi-by-aimee-bender/#article-main-4257), [Carmen Maria Machado](https://lithub.com/inventory/), Alice Sola Kim, Min Jin Lee, Elena Ferrante, Colette, Sally Rooney, Kazuo Ishiguro, Gogol, Nabokov. This [very short story](http://wigleaf.com/201704minuet.htm) by Rumaam Alam. Ann Ang's Bang My Car. The Great Gatsby.
 
 The poetry of Mary Oliver, Ada Limon, Linda Pastan, Heather Christle, Mary Ruefle, E. E. Cummings, Jorie Graham.
 
@@ -44,6 +45,8 @@ Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career a
 ✏️
 
 My favourite illustrators in the world: [Eleanor Davis](http://doing-fine.com/) — anything and everything, but especially You & a Bike & a Road, and [her work for The Bronx Freedom Fund](http://doing-fine.com/?p=1727#more-1727); [Sara Hagale](http://instagram.com/shagey_), whose work with a pencil is sublime. [Kate Beaton's hilarious, poignant comics](http://www.harkavagrant.com/). [How to Draw a Horse](https://www.newyorker.com/humor/daily-shouts/how-to-draw-a-horse).
+
+Hammershoi.
 
 💖
 

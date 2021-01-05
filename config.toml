@@ -31,10 +31,6 @@ publishDir               = "docs"
     text = "writing"
 
 [[params.mainMenu]]
-    link = "making"
-    text = "making"
-
-[[params.mainMenu]]
     link = "looking"
     text = "looking"
 

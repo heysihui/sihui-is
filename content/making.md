@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 date: 2020-22-07T18:42:49-05:00
+draft: true
 ---
 
 Life experiments & digital expeditions.

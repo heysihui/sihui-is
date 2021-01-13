@@ -20,11 +20,24 @@
     </item>
     
     <item>
-      <title>Changelog</title>
-      <link>/making/thissite/</link>
+      <title>About</title>
+      <link>/human/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/making/thissite/</guid>
+      <guid>/human/</guid>
+      <description>My given name is Si Hui. Yes, both words! Ain&amp;rsquo;t the world grand.
+Writer, artist, and researcher. Left-handed tapir child. My practice focuses on the documentation of and reflection on tangible lived experience. Most recently in residence with Centre 42&amp;rsquo;s The Vault Lite.
+In the matter of living, I am concerned with the widening of the human heart.
+Contact: heysihui @ gmail / instagram
+This site is built on Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Changelog</title>
+      <link>/meta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/meta/</guid>
       <description>v1.0 | Aug 2020 Running this site off Hugo on the Call me Sam theme and trying my darndest best to learn How To Do Front End. Have come a long way from coding blogskins in my preteen years and I am so much more easily confused by the file structures these days, despite the relative ease of Markdown and Hugo.
 I&amp;rsquo;ve taken about a month of on-and-off tinkering to put this together.</description>
     </item>
@@ -43,16 +56,17 @@ I saw Egon Schiele&amp;rsquo;s work in Leopold Museum one cold dark winter&amp;r
     </item>
     
     <item>
-      <title>Si Hui </title>
-      <link>/human/</link>
+      <title>Projects</title>
+      <link>/making/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/human/</guid>
-      <description>^ My given name. Yes, both words! Ain&amp;rsquo;t the world grand.
-Writer, artist, and researcher. Left-handed tapir child. My practice focuses on the documentation of and reflection on tangible lived experience.
-In the matter of living, I am concerned with the widening of the human heart.
-Gmail: heysihui / Instagram
-Meta: Behind this site</description>
+      <guid>/making/</guid>
+      <description>Experiments &amp;amp; expeditions. Also known to my beloveds as: Si Hui, what on earth are you up to this time?
+✨
+10 First Dates
+February 2020, before the pandemic hits: I embark on an ambitious dating experiment.
+Kimzua.online
+Early draft of a digital experience, exploring the intersection of emotion and ritual.</description>
     </item>
     
   </channel>

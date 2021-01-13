@@ -1,7 +1,6 @@
 ---
 title: "Changelog"
 date: 2020-22-07T18:42:49-05:00
-slug: /making/thissite/
 ---
 
 # v1.0 | Aug 2020

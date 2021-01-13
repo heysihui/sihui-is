@@ -22,6 +22,7 @@ publishDir               = "docs"
     title                = "Si Hui"
     # rss                = ""
 
+
 [[params.mainMenu]]
     link = "human"
     text = "si hui is"
@@ -29,6 +30,10 @@ publishDir               = "docs"
 [[params.mainMenu]]
     link = "writing"
     text = "writing"
+
+[[params.mainMenu]]
+    link = "making"
+    text = "making"
 
 [[params.mainMenu]]
     link = "looking"

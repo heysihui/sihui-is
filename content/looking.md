@@ -16,7 +16,7 @@ I saw [Egon Schiele](https://artsandculture.google.com/asset/seated-male-nude-se
 
 🌗
 
-If you take craft far enough it can seem like magic: The work of [Automato](http://automato.farm). [Kelli Anderson](https://vimeo.com/332596348)'s motion and paper craft. [Nicole He](http://nicole.pizza/)'s weird stuff. [Molleindustria](https://www.molleindustria.org/)'s work, especially this 8-bit museum [LikeLike](https://likelike.glitch.me/?room=likelikeOutside). The smoothest responsive interactive site [Nurture](https://nurtu.re). This [website](https://mkorostoff.github.io/1-pixel-wealth/) showing exactly how wealthy Jeff Bezos is, pixel by pixel. Jon Bois's [Future of Football](https://www.sbnation.com/a/17776-football/homer-nebraska).
+If you take craft far enough it can seem like magic: The work of [Automato](http://automato.farm). [Kelli Anderson](https://vimeo.com/332596348)'s motion and paper craft. [Nicole He](http://nicole.pizza/)'s weird stuff. [Molleindustria](https://www.molleindustria.org/)'s work, especially this 8-bit museum [LikeLike](https://likelike.glitch.me/?room=likelikeOutside). The smoothest responsive interactive site [Nurture](https://nurtu.re). This [website](https://mkorostoff.github.io/1-pixel-wealth/) showing exactly how wealthy Jeff Bezos is, pixel by pixel. Jon Bois's [Future of Football](https://www.sbnation.com/a/17776-football/homer-nebraska). Nelly Ben Hayoun's entire career.
 
 🎭
 
@@ -42,7 +42,7 @@ Tilda Swinton in Only Lovers Left Alive; Carey Mulligan in An Education; Kim Min
 
 🚀
 
-Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career and life: [Adrianna Tan](https://popagandhi.com/), [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/).
+Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career and life: [Adrianna Tan](https://popagandhi.com/), [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/), Jenny Odell.
 
 ✏️
 

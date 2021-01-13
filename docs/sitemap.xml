@@ -8,11 +8,15 @@
   </url>
   
   <url>
+    <loc>/human/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/making/thissite/</loc>
+    <loc>/meta/</loc>
   </url>
   
   <url>
@@ -20,11 +24,11 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/making/</loc>
   </url>
   
   <url>
-    <loc>/human/</loc>
+    <loc>/</loc>
   </url>
   
   <url>

@@ -4,7 +4,7 @@ date: 2020-22-07T18:42:49-05:00
 url: "/looking"
 ---
 
-> "Attention is the beginning of devotion." — Mary Oliver
+_"Attention is the beginning of devotion." — Mary Oliver_
 
 In 2012, [Robin Sloan](https://robinsloan.com) published a tap essay-app called [Fish](https://www.robinsloan.com/fish/). It extolled the value of, in the age of a fast-moving internet, returning to the things you love over and over again. [Looking at your fish](https://rumaanalam.com/Current-Enthusiasms).
 

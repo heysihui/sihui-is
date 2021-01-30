@@ -2,10 +2,8 @@
 title: "About"
 date: 2020-22-07T18:42:49-05:00
 ---
-*My given name is [Si Hui](https://instagram.com/sihui). Yes, both words! Ain't the world grand.
-My pronuns are she/her/hers.*
 
-Writer, artist, and researcher. Left-handed tapir child. I’ve been online since 1999, blogging since 2004, and a general curmudgeon since birth. My secret life goal is to be in a crossword puzzle.
+Writer, artist, and researcher. Left-handed tapir child, online since 1999 and a general curmudgeon since birth. My secret life goal is to be in a crossword puzzle.
 
 **Currently:** [Design researcher](working), writer and [artist-in-residence](https://centre42.sg/the-vault-lite-open-call/).
 

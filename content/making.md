@@ -6,13 +6,10 @@ Experiments, experiences, performance. My practice focuses on the documentation 
 
 ✨
 
-Bodies in Community\
+_Bodies in Community_\
 A response to Ovidia Yu's "Breastissues".
 
-The Kopitiam\
-Improv with a touch of Singaporean sentimentality.
-
-Here & There\
+_Here & There_\
 A photo series across spaces.
 
 [10 First Dates](http://tiny.cc/10FD)\

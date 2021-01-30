@@ -4,11 +4,11 @@ date: 2020-22-07T18:42:49-05:00
 url: "/looking"
 ---
 
-Attention is the beginning of devotion.
+> "Attention is the beginning of devotion." — Mary Oliver
 
 In 2012, [Robin Sloan](https://robinsloan.com) published a tap essay-app called [Fish](https://www.robinsloan.com/fish/). It extolled the value of, in the age of a fast-moving internet, returning to the things you love over and over again. [Looking at your fish](https://rumaanalam.com/Current-Enthusiasms).
 
-In its spirit, here are the fish in my genealogy of influence:
+In its spirit, here are the fish in my genealogy of influence.
 
 🌊
 
@@ -16,7 +16,7 @@ I saw [Egon Schiele](https://artsandculture.google.com/asset/seated-male-nude-se
 
 🌗
 
-If you take craft far enough it can seem like magic: The work of [Automato](http://automato.farm). [Kelli Anderson](https://vimeo.com/332596348)'s motion and paper craft. [Nicole He](http://nicole.pizza/)'s weird stuff. [Molleindustria](https://www.molleindustria.org/)'s work, especially this 8-bit museum [LikeLike](https://likelike.glitch.me/?room=likelikeOutside). The smoothest responsive interactive site [Nurture](https://nurtu.re). This [website](https://mkorostoff.github.io/1-pixel-wealth/) showing exactly how wealthy Jeff Bezos is, pixel by pixel. Jon Bois's [Future of Football](https://www.sbnation.com/a/17776-football/homer-nebraska). Nelly Ben Hayoun's entire career.
+If you take craft far enough it can seem like magic: The work of [Automato](http://automato.farm). [Kelli Anderson](https://vimeo.com/332596348)'s motion and paper craft. [Nicole He](http://nicole.pizza/)'s weird stuff. [Molleindustria](https://www.molleindustria.org/)'s work, especially this 8-bit museum [LikeLike](https://likelike.glitch.me/?room=likelikeOutside). The smoothest responsive interactive site [Nurture](https://nurtu.re). This [website](https://mkorostoff.github.io/1-pixel-wealth/) showing exactly how wealthy Jeff Bezos is, pixel by pixel. Jon Bois's [Future of Football](https://www.sbnation.com/a/17776-football/homer-nebraska). Lauren Lee McCarthy's [social experiments](https://lauren-mccarthy.com/MWITM-Man-Woman-In-The-Middle). Nelly Ben Hayoun's [entire career](http://nellyben.com/).
 
 🎭
 
@@ -28,9 +28,9 @@ In London, Punchdrunk's [The Drowned Man](http://www.punchdrunk.org.uk/project/t
 
 Deborah Levy's Things I Don't Want to Know, Jenny Odell's How to Do Nothing, Maggie Nelson's Bluets, Maria Turmakin's Axiomatic.
 
-Fiction by Alice Munro, George Saunders, [Aimee](https://womenandmodernlove.wordpress.com/2015/06/29/on-a-saturday-afternoon-a-story-by-aimee-bender/) [Bender](https://electricliterature.com/the-doctor-and-the-rabbi-by-aimee-bender/#article-main-4257), [Carmen Maria Machado](https://lithub.com/inventory/), Alice Sola Kim, Min Jin Lee, Elena Ferrante, Colette, Sally Rooney, Kazuo Ishiguro, Gogol, Nabokov. This [very short story](http://wigleaf.com/201704minuet.htm) by Rumaam Alam. Ann Ang's Bang My Car. The Great Gatsby.
+Fiction by Alice Munro, George Saunders, [Aimee](https://womenandmodernlove.wordpress.com/2015/06/29/on-a-saturday-afternoon-a-story-by-aimee-bender/) [Bender](https://electricliterature.com/the-doctor-and-the-rabbi-by-aimee-bender/#article-main-4257), [Carmen Maria Machado](https://lithub.com/inventory/), Alice Sola Kim, Min Jin Lee, Elena Ferrante, Colette, Sally Rooney, Kazuo Ishiguro, Gogol, Nabokov. This [very short story](http://wigleaf.com/201704minuet.htm) by Rumaam Alam. Ann Ang's Bang My Car. You Jin, Lu Xun, Yuan Fei. The Great Gatsby.
 
-The poetry of Mary Oliver, Ada Limon, Linda Pastan, Heather Christle, Mary Ruefle, E. E. Cummings, Jorie Graham.
+The poetry of Mary Oliver, Ada Limon, Linda Pastan, Heather Christle, Mary Ruefle, E. E. Cummings, Jorie Graham, Danez Smith, Frank Bidart, Richard Siken.
 
 Sady Doyle [on class](http://tigerbeatdown.com/2011/10/08/the-percentages-a-biography-of-class/), Calvin Trillin [on his beloved, Alice](https://www.newyorker.com/magazine/2006/03/27/alice-off-the-page), John McPhee's [Draft No. 4](https://www.newyorker.com/magazine/2013/04/29/draft-no-4).
 
@@ -42,11 +42,11 @@ Tilda Swinton in Only Lovers Left Alive; Carey Mulligan in An Education; Kim Min
 
 🚀
 
-Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career and life: [Adrianna Tan](https://popagandhi.com/), [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/), Jenny Odell.
+Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career and life: [Adrianna Tan](https://popagandhi.com/), [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/).
 
 ✏️
 
-My favourite illustrators in the world: [Eleanor Davis](http://doing-fine.com/) — anything and everything, but especially You & a Bike & a Road, and [her work for The Bronx Freedom Fund](http://doing-fine.com/?p=1727#more-1727); [Sara Hagale](http://instagram.com/shagey_), whose work with a pencil is sublime. [Kate Beaton's hilarious, poignant comics](http://www.harkavagrant.com/). [How to Draw a Horse](https://www.newyorker.com/humor/daily-shouts/how-to-draw-a-horse).
+My favourite illustrators in the world: [Eleanor Davis](http://doing-fine.com/) — anything and everything, but especially You & a Bike & a Road, and [her work for The Bronx Freedom Fund](http://doing-fine.com/?p=1727#more-1727); [Sara Hagale](http://instagram.com/shagey_), whose pencil strokes are sublime. [Kate Beaton's hilarious, poignant comics](http://www.harkavagrant.com/). [How to Draw a Horse](https://www.newyorker.com/humor/daily-shouts/how-to-draw-a-horse).
 
 Hammershoi.
 
@@ -56,7 +56,7 @@ The words of the marvellous [Adrienne Rich](https://lithub.com/life-advice-from-
 
 > "An honorable human relationship—that is, one in which two people have the right to use the word “love”—is a process, delicate, violent, often terrifying to both persons involved, a process of refining the truths they can tell each other.
 >
->It is important to do this because it breaks down human self-delusion and isolation.
+> It is important to do this because it breaks down human self-delusion and isolation.
 >
 > It is important to do this because in doing so we do justice to our own complexity.
 >

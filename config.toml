@@ -28,12 +28,12 @@ publishDir               = "docs"
     text = "si hui is"
 
 [[params.mainMenu]]
-    link = "writing"
-    text = "writing"
-
-[[params.mainMenu]]
     link = "making"
     text = "making"
+    
+[[params.mainMenu]]
+    link = "writing"
+    text = "writing"
 
 [[params.mainMenu]]
     link = "looking"

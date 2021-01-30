@@ -25,11 +25,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/human/</guid>
-      <description>My given name is Si Hui. Yes, both words! Ain&amp;rsquo;t the world grand.
-Writer, artist, and researcher. Left-handed tapir child. My practice focuses on the documentation of and reflection on tangible lived experience. Most recently in residence with Centre 42&amp;rsquo;s The Vault Lite.
-In the matter of living, I am concerned with the widening of the human heart.
-Contact: heysihui @ gmail / instagram
-This site is built on Hugo.</description>
+      <description>My given name is Si Hui. Yes, both words! Ain&amp;rsquo;t the world grand. My pronuns are she/her/hers.
+Writer, artist, and researcher. Left-handed tapir child. I’ve been online since 1999, blogging since 2004, and a general curmudgeon since birth. My secret life goal is to be in a crossword puzzle.
+Currently: Design researcher, writer and artist-in-residence.
+I&amp;rsquo;m happiest telling stories, helping human beings understand other human beings, and making things work, no matter how scrappy or small.</description>
     </item>
     
     <item>
@@ -48,9 +47,9 @@ I&amp;rsquo;ve taken about a month of on-and-off tinkering to put this together.
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/looking/</guid>
-      <description>Attention is the beginning of devotion.
-In 2012, Robin Sloan published a tap essay-app called Fish. It extolled the value of, in the age of a fast-moving internet, returning to the things you love over and over again. Looking at your fish.
-In its spirit, here are the fish in my genealogy of influence:
+      <description>&amp;ldquo;Attention is the beginning of devotion.&amp;rdquo; — Mary Oliver
+ In 2012, Robin Sloan published a tap essay-app called Fish. It extolled the value of, in the age of a fast-moving internet, returning to the things you love over and over again. Looking at your fish.
+In its spirit, here are the fish in my genealogy of influence.
 🌊
 I saw Egon Schiele&amp;rsquo;s work in Leopold Museum one cold dark winter&amp;rsquo;s night and the world opened right up.</description>
     </item>
@@ -61,12 +60,25 @@ I saw Egon Schiele&amp;rsquo;s work in Leopold Museum one cold dark winter&amp;r
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/making/</guid>
-      <description>Experiments &amp;amp; expeditions. Also known to my beloveds as: Si Hui, what on earth are you up to this time?
+      <description>Experiments, experiences, performance. My practice focuses on the documentation of and reflection on tangible lived experience. More and more I am attracted to the idea of time, open-ended processes, and a personal understanding. Most recently, I am in residence with Centre 42’s The Vault Lite.
 ✨
-10 First Dates
-February 2020, before the pandemic hit: I embark on an ambitious dating experiment.
-Kimzua.online
-Early mockup of a digital experience, exploring the intersection of emotion and ritual. Hyper (I cannot stress this enough) janky.</description>
+☞ Bodies in Community
+A response to Ovidia Yu&amp;rsquo;s &amp;ldquo;Breastissues&amp;rdquo;.
+☞ The Kopitiam
+Improv with a touch of Singaporean sentimentality.
+☞ Here &amp;amp; There</description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>/working/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working/</guid>
+      <description>I&amp;rsquo;m a design researcher for civic tech, with vested interest in product strategy and past experience in service design.
+This is a work in progress and my way of working with the garage door up, although that is a plainly suburban car-driving American-leaning term; I’ve never had to interact with a garage door in my life.
+☞ Running List of Working Principles
+☞ Design Research for Digital Identity and 2.5 Million Users</description>
     </item>
     
   </channel>

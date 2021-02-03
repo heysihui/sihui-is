@@ -25,9 +25,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/human/</guid>
-      <description>Writer, artist, and researcher. Left-handed tapir child, online since 1999 and a general curmudgeon since birth. My secret life goal is to be in a crossword puzzle.
-Currently: Design researcher, writer and artist-in-residence.
-I&amp;rsquo;m happiest telling stories, helping human beings understand other human beings, and making things work, no matter how scrappy or small. I care about: Intentionality, emotions and experiences, doing good in the world and doing it well. I believe the best writing reads like a conversation you never want to end.</description>
+      <description>Writer, artist, improviser, left-handed curmudgeon. My secret life goal is to be in a crossword puzzle.
+I&amp;rsquo;m happiest telling stories, helping human beings understand other human beings, and making things work, no matter how scrappy or small.
+I care about: Intentionality, emotions and experiences, doing good in the world and doing it well.
+I believe the best writing reads like a conversation you never want to end.
+In the matter of living, I am concerned with the widening of the human heart.</description>
     </item>
     
     <item>
@@ -54,31 +56,31 @@ I saw Egon Schiele&amp;rsquo;s work in Leopold Museum one cold dark winter&amp;r
     </item>
     
     <item>
+      <title>Portfolio</title>
+      <link>/working/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working/</guid>
+      <description>I&amp;rsquo;m currently a design researcher for civic tech, with vested interest in product design and past experience in service design.
+This is a work in progress and my way of working with the garage door up, although that is a plainly suburban car-driving American-leaning term; I’ve never had to interact with a garage door in my life.
+☞ Running List of Working Principles
+☞ Building a Digital Identity for 2.5 Million Users</description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>/making/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/making/</guid>
-      <description>Experiments, experiences, performance. My practice focuses on the documentation of and reflection on tangible lived experience. More and more I am attracted to the idea of time, open-ended processes, and a personal understanding. Most recently, I am in residence with Centre 42’s The Vault Lite.
+      <description>Experiments, experiences, performance. My practice focuses on the documentation of and reflection on tangible lived experience. More and more I am attracted to the idea of time, open-ended processes, and reaching an understanding of self.
 ✨
 Bodies in Community
-A response to Ovidia Yu&amp;rsquo;s &amp;ldquo;Breastissues&amp;rdquo;.
+A response to Ovidia Yu&amp;rsquo;s &amp;ldquo;Breastissues&amp;rdquo;, for Centre 42.
 Here &amp;amp; There
 A photo series across spaces.
 10 First Dates
 February 2020, before the pandemic hit: I embark on an ambitious dating experiment.</description>
-    </item>
-    
-    <item>
-      <title>Work</title>
-      <link>/working/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/working/</guid>
-      <description>I&amp;rsquo;m a design researcher for civic tech, with vested interest in product strategy and past experience in service design.
-This is a work in progress and my way of working with the garage door up, although that is a plainly suburban car-driving American-leaning term; I’ve never had to interact with a garage door in my life.
-☞ Running List of Working Principles
-☞ Design Research for Digital Identity and 2.5 Million Users</description>
     </item>
     
   </channel>

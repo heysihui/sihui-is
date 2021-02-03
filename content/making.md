@@ -2,12 +2,12 @@
 title: "Projects"
 date: 2020-22-07T18:42:49-05:00
 ---
-Experiments, experiences, performance. My practice focuses on the documentation of and reflection on tangible lived experience. More and more I am attracted to the idea of time, open-ended processes, and a personal understanding. Most recently, I am in residence with Centre 42’s [The Vault Lite](https://centre42.sg/the-vault-lite-open-call/).
+Experiments, experiences, performance. My practice focuses on the documentation of and reflection on tangible lived experience. More and more I am attracted to the idea of time, open-ended processes, and reaching an understanding of self.
 
 ✨
 
 _Bodies in Community_\
-A response to Ovidia Yu's "Breastissues".
+A response to Ovidia Yu's "Breastissues", for [Centre 42](https://centre42.sg/the-vault-lite-open-call/).
 
 _Here & There_\
 A photo series across spaces.

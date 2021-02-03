@@ -14,7 +14,7 @@ publishDir               = "docs"
     dateformfull         = "Jan 2 2006 15:04:05 EST"
     favicon              = "milkyway.ico"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Lim Si Hui © 2020"
+    footerText           = "Lim Si Hui © 2021"
 
 # Metadata for Open Graph and Twitter
     description          = "Writer, artist, researcher"               # Max 160 characters show in search results
@@ -30,7 +30,7 @@ publishDir               = "docs"
 [[params.mainMenu]]
     link = "making"
     text = "making"
-    
+
 [[params.mainMenu]]
     link = "writing"
     text = "writing"

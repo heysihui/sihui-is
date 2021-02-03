@@ -24,6 +24,10 @@
   </url>
   
   <url>
+    <loc>/working/</loc>
+  </url>
+  
+  <url>
     <loc>/making/</loc>
   </url>
   
@@ -33,10 +37,6 @@
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/working/</loc>
   </url>
   
 </urlset>

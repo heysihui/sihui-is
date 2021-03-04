@@ -6,8 +6,8 @@ Experiments, experiences, performance. My practice focuses on the documentation 
 
 ✨
 
-_Bodies in Community_\
-A response to Ovidia Yu's "Breastissues", for [Centre 42](https://centre42.sg/the-vault-lite-open-call/).
+[Bodies in Community](https://centre42.sg/the-vault-lite-a-whole-new-world/)\
+A response to Ovidia Yu's "Breastissues", for [Centre 42](https://centre42.sg/)'s The Vault: Lite residency.
 
 _Here & There_\
 A photo series across spaces.

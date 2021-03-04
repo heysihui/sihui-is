@@ -63,4 +63,6 @@ The words of the marvellous [Adrienne Rich](https://lithub.com/life-advice-from-
 > It is important to do this because we can count on so few people to go that hard way with us."
 >
 
-The willingness to, against all odds, [try](https://mylordshesacactus.tumblr.com/post/170401018158/please-make-a-post-about-the-story-of-the-rms). To do [what you can](https://coordinate.systems/in/2020/what-was-left/) with [what you have](https://archive.nytimes.com/www.nytimes.com/books/99/03/28/specials/dillard-drop.html?scp=1&sq=annie%2520dillard%2520write%2520till%2520you%2520drop&st=cse).
+The willingness to, against all odds, [try](https://mylordshesacactus.tumblr.com/post/170401018158/please-make-a-post-about-the-story-of-the-rms).
+
+To do [what you can](https://coordinate.systems/in/2020/what-was-left/) with [what you have](https://archive.nytimes.com/www.nytimes.com/books/99/03/28/specials/dillard-drop.html?scp=1&sq=annie%2520dillard%2520write%2520till%2520you%2520drop&st=cse).

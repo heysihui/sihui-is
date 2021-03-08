@@ -3,7 +3,7 @@ title: "About"
 date: 2020-22-07T18:42:49-05:00
 ---
 
-Writer, researcher, artist, improviser, left-handed curmudgeon.
+Person in Tech by day, writer and artist by night, improviser by the weekend; left-handed curmudgeon all day every day.
 
 I'm happiest telling stories and making things work, no matter how scrappy or small. I care about: Intentionality, emotions and experiences, doing good in the world and doing it well.
 

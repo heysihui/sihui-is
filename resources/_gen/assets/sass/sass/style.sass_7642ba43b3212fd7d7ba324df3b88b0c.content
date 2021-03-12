@@ -5,7 +5,7 @@
   box-sizing: border-box; }
 
 html {
-  background-color: #FFF8DC;
+  background-color: #FFFFF0;
   font-family: "Optima";
   font-size: 16px; }
 

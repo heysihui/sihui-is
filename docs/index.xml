@@ -25,10 +25,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/human/</guid>
-      <description>Person in Tech by day, writer and artist by night, improviser by the weekend; left-handed curmudgeon all day every day.
-I&amp;rsquo;m happiest telling stories and making things work, no matter how scrappy or small. I care about: Intentionality, emotions and experiences, doing good in the world and doing it well.
-In the matter of living, I am concerned with the widening of the human heart.
-Contact: heysihui @ gmail / instagram</description>
+      <description>Lim (family name) Si Hui (given name, yes, both words)
+I am a Person in Tech by day, writer and artist by night, improviser by the weekend.
+I&amp;rsquo;m happiest telling stories and making things work, no matter how scrappy or small. I care very much about intentionality, emotions, experiences, doing good in the world and doing it well.
+In the matter of living, I am concerned with the widening of the human heart.</description>
     </item>
     
     <item>
@@ -55,31 +55,26 @@ I saw Egon Schiele&amp;rsquo;s work in Leopold Museum one cold dark winter&amp;r
     </item>
     
     <item>
-      <title>Portfolio</title>
-      <link>/working/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/working/</guid>
-      <description>I&amp;rsquo;m currently a design researcher for civic tech, with vested interest in product design and past experience in service design.
-This is a work in progress and my way of working with the garage door up, although that is a plainly suburban car-driving American-leaning term; I’ve never had to interact with a garage door in my life.
-☞ Running List of Working Principles
-☞ Building a Digital Identity for 2.5 Million Users</description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>/making/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/making/</guid>
-      <description>Experiments, experiences, performance. My practice focuses on the documentation of and reflection on tangible lived experience. More and more I am attracted to the idea of time, open-ended processes, and reaching an understanding of self.
-✨
-Bodies in Community
-A response to Ovidia Yu&amp;rsquo;s &amp;ldquo;Breastissues&amp;rdquo;, for Centre 42&amp;rsquo;s The Vault: Lite residency.
-Here &amp;amp; There
-A photo series across spaces.
-10 First Dates
-February 2020, before the pandemic hit: I embark on an ambitious dating experiment.</description>
+      <description>My creative practice thrives on documentation, reflection, and tangible lived experience. More and more, I am experimenting with the idea of reaching an understanding of the self through repetition and time-bound rituals.
+Bodies in Community A response to Ovidia Yu&amp;rsquo;s &amp;ldquo;Breastissues&amp;rdquo;, for Centre 42&amp;rsquo;s The Vault: Lite residency.
+Here &amp;amp; There A photo series across spaces.
+10 First Dates February 2020, before the pandemic hit: I embark on an ambitious dating experiment.</description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>/working/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working/</guid>
+      <description>I&amp;rsquo;m a design researcher with vested interest in product strategy and service design. I love working with nimble, passionate teams to sensemake, storytell, and speak truth to power.
+My experiences across the private and public sector include:
+ Leading research to build digital identity products for 2.5 million users Setting up a Wizard-of-Oz style co-creation lab for elevator experiences in Shanghai Prototyping and testing with everything from interactive media to physical spaces Exploring the future of learning experiences and relationships in classrooms Creating research principles and processes to lead a design team Facilitating workshops and teams of 30+ in alignment and cocreation  My work revolves around the strategy and innovation space, so most of it is not publicly sharable.</description>
     </item>
     
   </channel>

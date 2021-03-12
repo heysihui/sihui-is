@@ -1,14 +1,17 @@
 ---
-title: "Portfolio"
+title: "Work"
 date: 2020-22-07T18:42:49-05:00
 ---
 
-I'm currently a [design researcher](https://www.linkedin.com/in/si-hui/) for civic tech, with vested interest in product design and past experience in service design.
+I'm a [design researcher](https://www.linkedin.com/in/si-hui/) with vested interest in product strategy and service design. I love working with nimble, passionate teams to sensemake, storytell, and speak truth to power.
 
-This is a work in progress and my way of [working with the garage door up](https://notes.andymatuschak.org/z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu), although that is a plainly suburban car-driving American-leaning term; I’ve never had to interact with a garage door in my life.
+My experiences across the private and public sector include:
 
-☞ Running List of Working Principles\
-☞ Building a Digital Identity for 2.5 Million Users\
-☞ Setting Up a Cross-Cultural Co-Creation Lab in China\
-☞ Exploring Future Learning Experiences\
-☞ Understanding Culture in F&B Service Design\
+- Leading research to build digital identity products for 2.5 million users
+- Setting up a Wizard-of-Oz style co-creation lab for elevator experiences in Shanghai
+- Prototyping and testing with everything from interactive media to physical spaces
+- Exploring the future of learning experiences and relationships in classrooms
+- Creating research principles and processes to lead a design team
+- Facilitating workshops and teams of 30+ in alignment and cocreation
+
+My work revolves around the strategy and innovation space, so most of it is not publicly sharable. To find out more, please [get in touch](https://www.linkedin.com/in/si-hui/).

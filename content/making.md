@@ -2,18 +2,19 @@
 title: "Projects"
 date: 2020-22-07T18:42:49-05:00
 ---
-Experiments, experiences, performance. My practice focuses on the documentation of and reflection on tangible lived experience. More and more I am attracted to the idea of time, open-ended processes, and reaching an understanding of self.
+My creative practice thrives on documentation, reflection, and tangible lived experience. More and more, I am experimenting with the idea of reaching an understanding of the self through repetition and time-bound rituals.
 
-✨
-
-[Bodies in Community](https://centre42.sg/the-vault-lite-a-whole-new-world/)\
+# [Bodies in Community](https://centre42.sg/the-vault-lite-a-whole-new-world/)
 A response to Ovidia Yu's "Breastissues", for [Centre 42](https://centre42.sg/)'s The Vault: Lite residency.
 
-_Here & There_\
+# _Here & There_
 A photo series across spaces.
 
-[10 First Dates](http://tiny.cc/10FD)\
+# [10 First Dates](http://tiny.cc/10FD)
 February 2020, before the pandemic hit: I embark on an ambitious dating experiment.
 
-[Kimzua.online](https://www.figma.com/proto/kFGgLXyzCjBoZbU3OkJgxj/Kimzua-Online-(Desktop)?node-id=1%3A2&scaling=scale-down-width&hide-ui=1)\
+# [Kimzua.online](https://www.figma.com/proto/kFGgLXyzCjBoZbU3OkJgxj/Kimzua-Online-(Desktop)?node-id=1%3A2&scaling=scale-down-width&hide-ui=1)
 Early, very janky mockup of a digital experience, exploring the intersection of emotion and ritual. I hope to revisit this one day through a refined ritual or performance.
+
+# [sihui.is]({{< ref "/meta" >}})
+This very site! An ongoing lesson in tweaking & deploying frontend code.

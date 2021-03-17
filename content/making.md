@@ -7,7 +7,7 @@ My creative practice thrives on documentation, reflection, and tangible lived ex
 # [Bodies in Community](https://centre42.sg/the-vault-lite-a-whole-new-world/)
 A response to Ovidia Yu's "Breastissues", for [Centre 42](https://centre42.sg/)'s The Vault: Lite residency.
 
-# _Here & There_
+# [Here & There]({{< ref "/hereandthere" >}})
 A photo series across spaces.
 
 # [10 First Dates](http://tiny.cc/10FD)

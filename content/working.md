@@ -3,7 +3,7 @@ title: "Work"
 date: 2020-22-07T18:42:49-05:00
 ---
 
-I'm a [design researcher](https://www.linkedin.com/in/si-hui/) with vested interest in product strategy and service design. I love working with nimble, passionate teams to sensemake, storytell, and speak truth to power.
+[Design researcher](https://www.linkedin.com/in/si-hui/) with vested interest in product strategy and service design. I love working with nimble, passionate teams to sensemake, storytell, and speak truth to power.
 
 My experiences across the private and public sector include:
 

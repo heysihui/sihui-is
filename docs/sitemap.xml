@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/dead/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/human/</loc>
   </url>
   

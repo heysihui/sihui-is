@@ -28,21 +28,16 @@ publishDir               = "docs"
     text = "si hui is"
 
 [[params.mainMenu]]
-    link = "looking"
-    text = "looking"
-
+    link = "making"
+    text = "making"
+    
 [[params.mainMenu]]
     link = "writing"
     text = "writing"
 
 [[params.mainMenu]]
-    link = "making"
-    text = "making"
-
-[[params.mainMenu]]
-    link = "working"
-    text = "working"
-
+    link = "looking"
+    text = "looking"
 
 [imaging]
     quality = 75

@@ -18,3 +18,6 @@ Early, very janky mockup of a digital experience, exploring the intersection of 
 
 # [sihui.is]({{< ref "/meta" >}})
 This very site! An ongoing lesson in tweaking & deploying frontend code.
+
+# [Work-Work]({{< ref "/working" >}})
+Under capitalism, I make futures possible by understanding the essence of needs and systems. Click here if you'd like to hire me!

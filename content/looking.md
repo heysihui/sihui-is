@@ -28,6 +28,8 @@ In London, Punchdrunk's [The Drowned Man](http://www.punchdrunk.org.uk/project/t
 
 Deborah Levy's Things I Don't Want to Know, Jenny Odell's How to Do Nothing, Maggie Nelson's Bluets, Maria Turmakin's Axiomatic.
 
+Sherry Turkle's The Empathy Diaries; Sherry Turkle's entire intellectual existence, really.
+
 Fiction by Alice Munro, George Saunders, [Aimee](https://womenandmodernlove.wordpress.com/2015/06/29/on-a-saturday-afternoon-a-story-by-aimee-bender/) [Bender](https://electricliterature.com/the-doctor-and-the-rabbi-by-aimee-bender/#article-main-4257), [Carmen Maria Machado](https://lithub.com/inventory/), Alice Sola Kim, Min Jin Lee, Elena Ferrante, Colette, Sally Rooney, Kazuo Ishiguro, Gogol, Nabokov. This [very short story](http://wigleaf.com/201704minuet.htm) by Rumaam Alam. Ann Ang's Bang My Car. You Jin, Lu Xun, Yuan Fei. The Great Gatsby.
 
 The poetry of Mary Oliver, Ada Limon, Linda Pastan, Heather Christle, Mary Ruefle, E. E. Cummings, Jorie Graham, Danez Smith, Frank Bidart, Richard Siken.
@@ -43,6 +45,8 @@ Tilda Swinton in Only Lovers Left Alive; Carey Mulligan in An Education; Kim Min
 🚀
 
 Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career and life: [Adrianna Tan](https://popagandhi.com/), [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/).
+
+Those whose careers have been inspiring me lately: Sara Hendren, May-Li Khoe, Matthew Strom, [Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/).
 
 ✏️
 

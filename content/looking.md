@@ -46,7 +46,7 @@ Tilda Swinton in Only Lovers Left Alive; Carey Mulligan in An Education; Kim Min
 
 Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career and life: [Adrianna Tan](https://popagandhi.com/), [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/).
 
-Those whose careers have been inspiring me lately: Sara Hendren, May-Li Khoe, Matthew Strom, [Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/).
+Those whose careers and philosophies have been inspiring me lately: Kenya Hara, Sara Hendren, May-Li Khoe, Matthew Strom, [Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/).
 
 ✏️
 

@@ -2,7 +2,7 @@
 title: "Projects"
 date: 2020-22-07T18:42:49-05:00
 ---
-My creative practice thrives on documentation, reflection, and tangible lived experience. More and more, I am experimenting with the idea of reaching an understanding of the self through repetition and time-bound rituals.
+My creative practice thrives on documentation, reflection, and lived experience. More and more, I am experimenting with the idea of reaching an understanding of the self through repetition and time-bound rituals.
 
 # [Bodies in Community](https://centre42.sg/the-vault-lite-a-whole-new-world/)
 A response to Ovidia Yu's "Breastissues", for [Centre 42](https://centre42.sg/)'s The Vault: Lite residency.
@@ -18,6 +18,3 @@ Early, very janky mockup of a digital experience, exploring the intersection of 
 
 # [sihui.is]({{< ref "/meta" >}})
 This very site! An ongoing lesson in tweaking & deploying frontend code.
-
-# [Work-Work]({{< ref "/working" >}})
-Under capitalism, I make futures possible by understanding the essence of needs and systems. Click here if you'd like to hire me!

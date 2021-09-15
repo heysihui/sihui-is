@@ -36,6 +36,8 @@ The poetry of Mary Oliver, Ada Limon, Linda Pastan, Heather Christle, Mary Ruefl
 
 Sady Doyle [on class](http://tigerbeatdown.com/2011/10/08/the-percentages-a-biography-of-class/), Calvin Trillin [on his beloved, Alice](https://www.newyorker.com/magazine/2006/03/27/alice-off-the-page), John McPhee's [Draft No. 4](https://www.newyorker.com/magazine/2013/04/29/draft-no-4).
 
+Public libraries, a bastion of goodness in this burning world.
+
 🎥
 
 Céline Sciamma's Portrait of a Lady on Fire, Alice Wu's Saving Face, Mia Love-Hanson's L'Avenir. Wang Xiao Shuai's So Long My Son, Yorgos Lanthimos's The Lobster, Alejandro Landes's Monos, Richard Linklater's Before Sunrise, Greta Gerwig's Little Women, Noah Baumbach's Marriage Story, Paul Thomas Anderson's Phantom Thread. Bing Liu's Minding the Gap. Phoebe Waller-Bridge's Fleabag.
@@ -46,7 +48,7 @@ Tilda Swinton in Only Lovers Left Alive; Carey Mulligan in An Education; Kim Min
 
 Designers, researchers, Tech-Adjacent Folks on Twitter who led me to my career and life: [Adrianna Tan](https://popagandhi.com/), [Craig Mod](https://craigmod.com/), [Robin Sloan](https://www.robinsloan.com/), [Tricia Wang](https://www.triciawang.com/), [Jan Chipchase](https://janchipchase.com/), [Nicolas Nova](http://nearfuturelaboratory.com/).
 
-Those whose careers and philosophies have been inspiring me lately: Kenya Hara, Sara Hendren, May-Li Khoe, Matthew Strom, [Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/).
+Those whose careers and philosophies have been inspiring me lately: Kenya Hara, [Sara Hendren](http://aplusa.org), [May-Li Khoe](http://maylikhoe.com/), Matthew Strom, [Brian Collins](https://www.wearecollins.com/ideas/101-design-rules/).
 
 ✏️
 

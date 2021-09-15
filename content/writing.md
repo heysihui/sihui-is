@@ -5,6 +5,6 @@ date: 2018-02-13T12:21:57-05:00
 
 ---
 
-Under construction. Flashes in time. ✨
+Fermenting. ✨
 
-Meanwhile: I'm working on [A Funeral Manifesto]({{< ref "/dead" >}}) and a [monthly newsletter](https://onebraincell.substack.com/welcome) with a dear friend.
+Meanwhile, I'm publishing weekly meandering essays (coming soon!) and a collaborative [monthly newsletter of recommendations](https://onebraincell.substack.com/welcome) .

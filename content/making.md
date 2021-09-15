@@ -2,7 +2,10 @@
 title: "Projects"
 date: 2020-22-07T18:42:49-05:00
 ---
-My creative practice thrives on documentation, reflection, and lived experience. More and more, I am experimenting with the idea of reaching an understanding of the self through repetition and time-bound rituals.
+~~My creative practice thrives on documentation, reflection, and lived experience. More and more, I am experimenting with the idea of reaching an understanding of the self through repetition and time-bound rituals.~~ I make helpful things [at work](https://www.linkedin.com/in/si-hui/) and thoughtful, joyful things for myself.
+
+# [A Funeral Manifesto]({{< ref "/dead" >}})
+Post-demise planning; always iterating as I learn from being alive.
 
 # [Bodies in Community](https://centre42.sg/the-vault-lite-a-whole-new-world/)
 A response to Ovidia Yu's "Breastissues", for [Centre 42](https://centre42.sg/)'s The Vault: Lite residency.

@@ -7,9 +7,9 @@ Because I am bossy, and sentimental, and simply Too Much.
 
 # The Funeral
 
-1. I haven't decided about an open casket, but I'd like to be cremated in one of those eco coffins that can be written on. Write me a love note.
+1. I haven't decided about an open/closed casket, but I'd like to be cremated in one of those eco coffins that can be written on. Write me a love note.
 1. Play all the sad soppy stuff I love best: Frank Ocean, Sufjan Stevens, Kelsey Lu, Phoebe Bridgers, Andrew Bird, Rachel Yamagata, Cigarettes After Sex, FKA twigs, Damien Rice, The Velvet Underground, slow Mandopop.
-1. After my family, closest friends, and lovers former and present have taken their pick, lay my books out for people to bring home.
+1. After my family, closest friends, and lovers former and present have taken their pick, lay my books out for people to bring home. 
 1. Bring flowers, lots of them; give them to everyone else I love. Life is short and brutish but we still have each other.
 1. Have wine, and some sort of dessert bar. I'm already dead; let my people eat cake.
 

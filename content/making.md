@@ -4,6 +4,9 @@ date: 2020-22-07T18:42:49-05:00
 ---
 ~~My creative practice thrives on documentation, reflection, and lived experience. More and more, I am experimenting with the idea of reaching an understanding of the self through repetition and time-bound rituals.~~ I make helpful things [at work](https://www.linkedin.com/in/si-hui/) and thoughtful, joyful things for myself.
 
+# [Designer as a Potato Snack](https://www.figma.com/proto/hwhbGMGRmLt97CfDYK5pH2/Designer-as-a-Potato-Snack?node-id=1%3A2&scaling=contain&page-id=0%3A1)
+Lil talk/exercise I ran for my team in Nov 2021. What's your shape as a designer?
+
 # [A Funeral Manifesto]({{< ref "/dead" >}})
 Post-demise planning; always iterating as I learn from being alive.
 
